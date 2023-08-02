@@ -5,6 +5,10 @@ abstract class Animal  {
     }
 }
 
+class Lion extends Animal {
+
+}
+
 
 public class Main {
     public static void main(String[] args) {
