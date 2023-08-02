@@ -5,6 +5,7 @@ abstract class Animal  {
     }
 }
 
+class Horse extends Animal {}
 class Lion extends Animal {
 
 }
