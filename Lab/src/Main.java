@@ -18,6 +18,7 @@ class Horse extends Animal {
     }
 }
 
+// Lion class define
 class Lion extends Animal {
     public void eat() {
         System.out.println("Lion eats other animals");
