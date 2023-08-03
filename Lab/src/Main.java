@@ -6,6 +6,7 @@ abstract class Animal {
         System.out.println("All animals with a decent-sized brain engage in sleep");
     }
 
+    // print abstract
     public abstract void print();
 }
 
