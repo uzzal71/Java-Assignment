@@ -9,6 +9,7 @@ abstract class Animal {
 
 // Horse class define
 class Horse extends Animal {
+    // eat function
     public void eat() {
         System.out.println("Horse eats grass and plants");
     }
