@@ -1,3 +1,4 @@
+// Animal abstract class
 abstract class Animal {
     public abstract void eat();
     public void sleep() {
