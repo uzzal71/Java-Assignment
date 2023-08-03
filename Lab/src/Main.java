@@ -7,6 +7,7 @@ abstract class Animal {
     public abstract void print();
 }
 
+// Horse class define
 class Horse extends Animal {
     public void eat() {
         System.out.println("Horse eats grass and plants");
