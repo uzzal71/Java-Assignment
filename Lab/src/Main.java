@@ -13,6 +13,7 @@ class Horse extends Animal {
         System.out.println("Horse eats grass and plants");
     }
 
+    // print function
     public void print() {
         System.out.println("Horse is a herbivorous animal");
     }
