@@ -38,6 +38,7 @@ class Lion extends Animal {
 
 // Main Class Define
 public class Main {
+    /// create main class execution function
     public static void main(String[] args) {
         // Create horse object
         Horse horse = new Horse();
