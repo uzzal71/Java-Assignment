@@ -41,6 +41,11 @@ class Dog extends Animal {
     public void eat() {
         System.out.println("Lion eats other animals");
     }
+
+    // create print function
+    public void print() {
+        
+    }
 }
 
 // Main Class Define
