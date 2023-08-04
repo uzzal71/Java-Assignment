@@ -42,7 +42,7 @@ public class Main {
         horse.eat();
         horse.sleep();
         horse.print();
-
+        // Create lion object
         Lion lion = new Lion();
         lion.eat();
         lion.sleep();
