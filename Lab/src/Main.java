@@ -44,7 +44,7 @@ class Dog extends Animal {
 
     // create print function
     public void print() {
-        
+        System.out.println("Dog is a carnivorous animal");
     }
 }
 
