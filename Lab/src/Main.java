@@ -29,6 +29,7 @@ class Lion extends Animal {
         System.out.println("Lion eats other animals");
     }
 
+    // create print function
     public void print() {
         System.out.println("Lion is a carnivorous animal");
     }
