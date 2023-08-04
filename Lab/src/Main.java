@@ -37,7 +37,7 @@ class Lion extends Animal {
 }
 
 class Dog extends Animal {
-
+    // create eat function
 }
 
 // Main Class Define
