@@ -36,6 +36,10 @@ class Lion extends Animal {
     }
 }
 
+class Dog extends Animal {
+
+}
+
 // Main Class Define
 public class Main {
     /// create main class execution function
